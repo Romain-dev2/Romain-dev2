@@ -76,25 +76,55 @@ de présenter et de tester les résultats générés.
 
 ---
 
-## 🚀 Projets
 
-### 🎰 Casino — Application Flask
+## 🚀 Mes projets
 
-Projet universitaire de développement d'une application web de casino
-regroupant plusieurs mini-jeux.
+### 💣 Bomberman — Jeu 2D en Python
+**Année : 2024**
 
-**Technologies :** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+Développement d'un jeu Bomberman 2D au tour par tour, entièrement en Python, dans le cadre de mes études.
 
-👉 [Voir le projet sur GitHub](https://github.com/Wintide/Integration-QPC---Casino)
+**Technologies :** `Python`
+
+👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_Bomberman)
+
+---
+
+### 🌏 Voyage au Japon — Site web
+**Année : 2025**
+
+Projet individuel de conception d'un site web présentant l'organisation d'un voyage pédagogique de 7 jours au Japon pour 15 personnes, avec un budget de 35 000 €.
+
+Le site présente le programme du séjour, les activités, le budget et la gestion des risques.
+
+**Technologies :** `HTML5` `CSS3`
+
+👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_WEB_Voyage)
+
+---
+
+### 🌐 SAÉ BUT 2 — Pages web statiques
+**Projet universitaire réalisé en groupe de 5**
+
+Création de plusieurs pages web dans le cadre de la SAÉ 3 du BUT Informatique :
+- Page d'accueil
+- Page de connexion
+- Page du technicien
+
+Les pages permettent une navigation fictive entre elles grâce à des liens HTML, sans serveur ni base de données.
+
+**Technologies :** `HTML` `CSS`
+
+👉 [Voir le projet sur GitHub](https://github.com/Wintide/SAE_BUT2_Groupe1)
 
 ---
 
 ### 💰 Archilog — Gestionnaire de cagnottes
+**Mars 2026**
 
-Application développée dans le cadre du BUT Informatique.
+Développement d'une application web de gestion de cagnottes partagées, avec gestion des dépenses et calcul automatique des remboursements entre participants.
 
-L'objectif est de permettre la gestion de **cagnottes partagées** avec calcul
-automatique des remboursements entre utilisateurs.
+Le projet comprend également des tests et une organisation structurée du code.
 
 **Technologies :** `Python` `Flask` `SQLAlchemy` `Click` `HTML` `CSS` `JavaScript`
 
@@ -102,17 +132,17 @@ automatique des remboursements entre utilisateurs.
 
 ---
 
-### 🤖 Jazz AI — Génération musicale par IA
+### 🤖 Jazz AI — Génération musicale par intelligence artificielle
+**Avril – juin 2026**
 
-Projet réalisé lors de mon stage de BUT 2 au LISV (UVSQ).
+Projet réalisé lors de mon stage de BUT 2 au LISV (UVSQ), consacré à la génération automatique de musique jazz par intelligence artificielle.
 
-Développement et expérimentation de plusieurs architectures de Deep Learning
-pour générer automatiquement de la musique jazz.
+Développement et expérimentation de plusieurs architectures de Deep Learning, de LSTM à Music Transformer, ainsi que d'une plateforme web de démonstration permettant de tester les générations musicales.
 
 **Architectures étudiées :**
 `LSTM` → `BiLSTM` → `Transformer` → `Music Transformer`
 
-**Technologies :** `Python` `IA` `Deep Learning` `HTML` `CSS` `JavaScript`
+**Technologies :** `Python` `Deep Learning` `HTML` `CSS` `JavaScript`
 
 🏆 Stage évalué à **17/20**, meilleure note de la promotion.
 
@@ -120,29 +150,16 @@ pour générer automatiquement de la musique jazz.
 
 ---
 
-### 💣 Bomberman
+### 🎰 Casino — Application web collaborative
+**Projet universitaire**
 
-Projet réalisé en 2024 consistant à développer un **Bomberman 2D au tour
-par tour**, entièrement en Python.
+Développement d'une application web de casino regroupant plusieurs mini-jeux, avec une gestion commune des utilisateurs, des mises, des gains et du classement.
 
-🏆 Note obtenue : **19,2/20**
+Le projet est organisé pour permettre à plusieurs développeurs de travailler sur différents jeux au sein d'une même application.
 
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_Bomberman)
+**Technologies :** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
----
-
-### 🌏 Projet Web — Voyage au Japon
-
-Projet individuel consistant à concevoir l'organisation d'un voyage
-pédagogique de **7 jours au Japon pour 15 personnes**, avec un budget
-de **35 000 €**.
-
-Le site présente notamment le planning, le budget, les activités et
-la gestion des risques. :contentReference[oaicite:1]{index=1}
-
-**Technologies :** `HTML5` `CSS3`
-
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_WEB_Voyage)
+👉 [Voir le projet sur GitHub](https://github.com/Wintide/Integration-QPC---Casino)
 
 ---
 
@@ -180,9 +197,9 @@ Spécialités : **NSI** et **Mathématiques**
 
 # 🌍 Langues
 
-🇫🇷 **Français** — C2  
-🇬🇧 **Anglais** — B1  
-🇪🇸 **Espagnol** — A2
+- **Français :** langue maternelle (C2)
+- **Anglais :** niveau intermédiaire (B1)
+- **Espagnol :** notions de base (A2)
 
 ---
 
@@ -196,11 +213,12 @@ Spécialités : **NSI** et **Mathématiques**
 
 ---
 
-# 📊 GitHub
+# 📊 Mon profil GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romain-dev2&show_icons=true&theme=tokyonight&hide_border=true)
+Retrouvez l'ensemble de mes projets, expérimentations et travaux universitaires sur mon profil.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-dev2&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-Romain--dev2-181717?style=for-the-badge&logo=github)](https://github.com/Romain-dev2)
+
 
 ---
 
