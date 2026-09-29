@@ -61,7 +61,7 @@ de développement professionnelle.
 ## 🚀 Mes projets
 
 ### 🎰 Casino — Application web collaborative
-**Projet universitaire — 2026**
+**Septembre – Octobre — 2026**
 
 Développement d'une application web de casino regroupant plusieurs mini-jeux, avec une gestion commune des utilisateurs, des mises, des gains et du classement.
 
@@ -105,7 +105,8 @@ Le projet comprend également des tests et une organisation structurée du code.
 ---
 
 ### 🌐 SAÉ BUT 2 — Pages web statiques
-**Projet universitaire réalisé en groupe de 5**
+**Septembre – mai 2025-2026**
+**réalisé en groupe de 5**
 
 Création de plusieurs pages web dans le cadre de la SAÉ 3 du BUT Informatique :
 - Page d'accueil
@@ -121,7 +122,7 @@ Les pages permettent une navigation fictive entre elles grâce à des liens HTML
 ---
 
 ### 🌏 Voyage au Japon — Site web
-**2025**
+**Janvier 2025**
 
 Projet individuel de conception d'un site web présentant l'organisation d'un voyage pédagogique de 7 jours au Japon pour 15 personnes, avec un budget de 35 000 €.
 
@@ -134,7 +135,7 @@ Le site présente le programme du séjour, les activités, le budget et la gesti
 ---
 
 ### 💣 Bomberman — Jeu 2D en Python
-**2024**
+**Décembre 2024**
 
 Développement d'un jeu Bomberman 2D au tour par tour, entièrement en Python, dans le cadre de mes études.
 
