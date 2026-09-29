@@ -58,77 +58,18 @@ de développement professionnelle.
 
 ---
 
-## 🤖 Intelligence Artificielle
-
-Lors de mon stage de BUT 2 au **LISV (UVSQ)**, j'ai travaillé sur la génération
-automatique de musique jazz par Intelligence Artificielle.
-
-J'ai développé et comparé plusieurs architectures de Deep Learning :
-
-`LSTM` → `BiLSTM` → `Transformer` → `Music Transformer`
-
-Le projet comprenait notamment le développement d'une plateforme web permettant
-de présenter et de tester les résultats générés.
-
-🏆 Ce stage a obtenu **17/20**, soit la meilleure note de la promotion.
-
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/jazz_ai_stage_but2)
-
----
-
-
 ## 🚀 Mes projets
 
-### 💣 Bomberman — Jeu 2D en Python
-**Année : 2024**
+### 🎰 Casino — Application web collaborative
+**Projet universitaire — 2026**
 
-Développement d'un jeu Bomberman 2D au tour par tour, entièrement en Python, dans le cadre de mes études.
+Développement d'une application web de casino regroupant plusieurs mini-jeux, avec une gestion commune des utilisateurs, des mises, des gains et du classement.
 
-**Technologies :** `Python`
+Le projet est organisé pour permettre à plusieurs développeurs de travailler sur différents jeux au sein d'une même application.
 
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_Bomberman)
+**Technologies :** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
----
-
-### 🌏 Voyage au Japon — Site web
-**Année : 2025**
-
-Projet individuel de conception d'un site web présentant l'organisation d'un voyage pédagogique de 7 jours au Japon pour 15 personnes, avec un budget de 35 000 €.
-
-Le site présente le programme du séjour, les activités, le budget et la gestion des risques.
-
-**Technologies :** `HTML5` `CSS3`
-
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_WEB_Voyage)
-
----
-
-### 🌐 SAÉ BUT 2 — Pages web statiques
-**Projet universitaire réalisé en groupe de 5**
-
-Création de plusieurs pages web dans le cadre de la SAÉ 3 du BUT Informatique :
-- Page d'accueil
-- Page de connexion
-- Page du technicien
-
-Les pages permettent une navigation fictive entre elles grâce à des liens HTML, sans serveur ni base de données.
-
-**Technologies :** `HTML` `CSS`
-
-👉 [Voir le projet sur GitHub](https://github.com/Wintide/SAE_BUT2_Groupe1)
-
----
-
-### 💰 Archilog — Gestionnaire de cagnottes
-**Mars 2026**
-
-Développement d'une application web de gestion de cagnottes partagées, avec gestion des dépenses et calcul automatique des remboursements entre participants.
-
-Le projet comprend également des tests et une organisation structurée du code.
-
-**Technologies :** `Python` `Flask` `SQLAlchemy` `Click` `HTML` `CSS` `JavaScript`
-
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_archilog_GestionnaireDeCagnotte)
+👉 [Voir le projet sur GitHub](https://github.com/Wintide/Integration-QPC---Casino)
 
 ---
 
@@ -150,16 +91,56 @@ Développement et expérimentation de plusieurs architectures de Deep Learning, 
 
 ---
 
-### 🎰 Casino — Application web collaborative
-**Projet universitaire**
+### 💰 Archilog — Gestionnaire de cagnottes
+**Mars 2026**
 
-Développement d'une application web de casino regroupant plusieurs mini-jeux, avec une gestion commune des utilisateurs, des mises, des gains et du classement.
+Développement d'une application web de gestion de cagnottes partagées, avec gestion des dépenses et calcul automatique des remboursements entre participants.
 
-Le projet est organisé pour permettre à plusieurs développeurs de travailler sur différents jeux au sein d'une même application.
+Le projet comprend également des tests et une organisation structurée du code.
 
-**Technologies :** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+**Technologies :** `Python` `Flask` `SQLAlchemy` `Click` `HTML` `CSS` `JavaScript`
 
-👉 [Voir le projet sur GitHub](https://github.com/Wintide/Integration-QPC---Casino)
+👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_archilog_GestionnaireDeCagnotte)
+
+---
+
+### 🌐 SAÉ BUT 2 — Pages web statiques
+**Projet universitaire réalisé en groupe de 5**
+
+Création de plusieurs pages web dans le cadre de la SAÉ 3 du BUT Informatique :
+- Page d'accueil
+- Page de connexion
+- Page du technicien
+
+Les pages permettent une navigation fictive entre elles grâce à des liens HTML, sans serveur ni base de données.
+
+**Technologies :** `HTML` `CSS`
+
+👉 [Voir le projet sur GitHub](https://github.com/Wintide/SAE_BUT2_Groupe1)
+
+---
+
+### 🌏 Voyage au Japon — Site web
+**2025**
+
+Projet individuel de conception d'un site web présentant l'organisation d'un voyage pédagogique de 7 jours au Japon pour 15 personnes, avec un budget de 35 000 €.
+
+Le site présente le programme du séjour, les activités, le budget et la gestion des risques.
+
+**Technologies :** `HTML5` `CSS3`
+
+👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_WEB_Voyage)
+
+---
+
+### 💣 Bomberman — Jeu 2D en Python
+**2024**
+
+Développement d'un jeu Bomberman 2D au tour par tour, entièrement en Python, dans le cadre de mes études.
+
+**Technologies :** `Python`
+
+👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_Bomberman)
 
 ---
 
