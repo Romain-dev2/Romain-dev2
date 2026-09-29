@@ -76,25 +76,22 @@ de présenter et de tester les résultats générés.
 
 ---
 
-# 🚀 Projets
+## 🚀 Projets
 
-## 🎰 Casino — Application Flask
+### 🎰 Casino — Application Flask
 
-Projet universitaire de développement d'une application web de casino regroupant
-plusieurs mini-jeux.
+Projet universitaire de développement d'une application web de casino
+regroupant plusieurs mini-jeux.
 
 **Technologies :** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
-Le projet comprend notamment une authentification, une base de données partagée,
-plusieurs jeux et un système de classement.
-
-👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2)
+👉 [Voir le projet sur GitHub](https://github.com/Wintide/Integration-QPC---Casino)
 
 ---
 
-## 💰 Archilog — Gestionnaire de cagnottes
+### 💰 Archilog — Gestionnaire de cagnottes
 
-Application développée en mars 2026 dans le cadre du BUT Informatique.
+Application développée dans le cadre du BUT Informatique.
 
 L'objectif est de permettre la gestion de **cagnottes partagées** avec calcul
 automatique des remboursements entre utilisateurs.
@@ -105,7 +102,7 @@ automatique des remboursements entre utilisateurs.
 
 ---
 
-## 🤖 Jazz AI — Génération musicale par IA
+### 🤖 Jazz AI — Génération musicale par IA
 
 Projet réalisé lors de mon stage de BUT 2 au LISV (UVSQ).
 
@@ -113,42 +110,37 @@ Développement et expérimentation de plusieurs architectures de Deep Learning
 pour générer automatiquement de la musique jazz.
 
 **Architectures étudiées :**
-
-- LSTM
-- BiLSTM
-- Transformer
-- Music Transformer
+`LSTM` → `BiLSTM` → `Transformer` → `Music Transformer`
 
 **Technologies :** `Python` `IA` `Deep Learning` `HTML` `CSS` `JavaScript`
+
+🏆 Stage évalué à **17/20**, meilleure note de la promotion.
 
 👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/jazz_ai_stage_but2)
 
 ---
 
-## 💣 Bomberman
+### 💣 Bomberman
 
-Projet réalisé en 2024 consistant à développer un **Bomberman 2D au tour par tour**.
+Projet réalisé en 2024 consistant à développer un **Bomberman 2D au tour
+par tour**, entièrement en Python.
 
-Le projet a été entièrement développé en Python.
-
-**Technologie :** `Python`
-
-🏆 Le projet a obtenu une note de **19,2/20**.
+🏆 Note obtenue : **19,2/20**
 
 👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_Bomberman)
 
 ---
 
-## 🌏 Projet Web — Voyage au Japon
+### 🌏 Projet Web — Voyage au Japon
 
-Projet individuel consistant à se mettre dans la peau d'une agence de voyage
-et organiser un voyage pédagogique de **7 jours au Japon pour 15 personnes**,
-avec un budget de **35 000 €**.
+Projet individuel consistant à concevoir l'organisation d'un voyage
+pédagogique de **7 jours au Japon pour 15 personnes**, avec un budget
+de **35 000 €**.
 
-Le projet demandait notamment de concevoir l'organisation du voyage et de
-présenter les différentes étapes à travers un site web.
+Le site présente notamment le planning, le budget, les activités et
+la gestion des risques. :contentReference[oaicite:1]{index=1}
 
-**Technologies :** `HTML` `CSS`
+**Technologies :** `HTML5` `CSS3`
 
 👉 [Voir le projet sur GitHub](https://github.com/Romain-dev2/Projet_WEB_Voyage)
 
