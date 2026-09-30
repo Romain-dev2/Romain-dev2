@@ -195,12 +195,13 @@ Spécialités : **NSI** et **Mathématiques**
 
 ---
 
-# 📊 Mon profil GitHub
 
-Retrouvez l'ensemble de mes projets, expérimentations et travaux universitaires sur mon profil.
+## 📊 Statistiques GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-Romain--dev2-181717?style=for-the-badge&logo=github)](https://github.com/Romain-dev2)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Romain-dev2&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-dev2&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="180" />
+</p>
 
 ---
 
